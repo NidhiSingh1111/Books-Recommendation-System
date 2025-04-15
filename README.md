@@ -38,4 +38,7 @@ This approach is fast and doesn’t require user interaction history, making it 
 - Scikit-learn
 - Pickle (for model serialization)
 - HTML / CSS (frontend)
-- Render (for deployment)
+- Render (for deployment) 
+
+🌐 Live Demo
+Check it out here: https://books-recommendation-system-01tc.onrender.com
