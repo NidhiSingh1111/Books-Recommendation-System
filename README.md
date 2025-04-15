@@ -11,9 +11,9 @@ There are several types of recommendation systems:
 - **Content-Based Filtering**: Based on book metadata (title, author, genre, etc.)
 - **Hybrid Systems**: Combine both techniques.
 
-### 🧬 Our Approach: Content-Based Filtering
+### 🧬 Our Approach: Collaborative-Based Filtering
 
-In this project, we’ve used **Content-Based Filtering**, which works by:
+In this project, we’ve used **Collaborative-Based Filtering**, which works by:
 - Extracting features (like title, author, tags, and description) from the book dataset.
 - Using **TF-IDF Vectorization** to convert text into numerical format.
 - Computing **cosine similarity** between books to find the most similar titles.
